@@ -2,7 +2,7 @@
 
 **Version 1.1.0**
 
-**[ScoutAround](https://scoutaround-254808934590.us-west1.run.app/)** is an AI-powered travel concierge that helps you find the perfect spots for any interest—from espresso bars to art galleries—ranked by atmosphere and vibe.
+**[ScoutAround](https://scoutaround-254808934590.us-west1.run.app/)** is an AI-powered travel concierge that helps you find the perfect spots for any interest - from espresso bars to art galleries—ranked by atmosphere and vibe.
 
 Link: [https://scoutaround-254808934590.us-west1.run.app/](https://scoutaround-254808934590.us-west1.run.app/)
 
