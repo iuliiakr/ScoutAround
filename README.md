@@ -15,7 +15,6 @@ Unlike traditional map searches, [this application](https://scoutaround-25480893
 -   **Dual-Input Search**: Search by Location (with AI autocomplete) and Interest.
 -   **Dynamic Vibe Meter**: A visual rating system that adapts to your query.
 -   **Smart Grounding**: Uses Google Maps and Google Search tools to provide real-world data, addresses, and operating status.
--   **Robust Imagery**: Automatic fallback logic (Interior -> Exterior -> Placeholder) for images.
 -   **30km Radius**: Finds hidden gems outside the immediate city center.
 
 ## Tech Stack
